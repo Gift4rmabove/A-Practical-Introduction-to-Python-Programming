@@ -1,4 +1,4 @@
-# A-Practical-Introduction-to-Python-Programming
+# A Practical Introductionto Python Programming
 ### By Brian Heinold. 
 
 Questions and solutions completed by Limpho.
